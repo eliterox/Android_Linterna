@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="Configuracion Interna"/>
+    <EditTextPreference
+        android:key="pref_msg"
+        android:title="Mensaje de Emergencia"
+        android:summary="Configurar texto del mensaje de alerta"/>
+
+</PreferenceScreen>

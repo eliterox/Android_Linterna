@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Linterna</string>
+    <string name="emergency_message_description">Este mensaje sera enviado a los contactos de emergencia durante una eventualidad.</string>
+    <string name="emergency_message_header">Configuracion de mensaje de Emergencia</string>
+    <string name="emergency_message_hint">Escriba aqui su mensaje</string>
+
+    <string name="contact_list_header">Contactos de Emergencia</string>
+    <string name="contact_list_description">Seleccione los contactos a los cuales desea informar su situacion en caso de una eventualidad.</string>
+
+    <string name="contact_picker_name">Nombre</string>
+    <string name="contact_picker_phone">Numero de Telefono</string>
+
+    <string name="save_button">Guardar</string>
+    <string name="select_contact_button">Seleccionar Contacto</string>
+
+    <string name="config_menu_header">Configuracion S.O.S</string>
+    <string name="config_menu_help">Ayuda</string>
+    <string name="config_inst_header">Instrucciones de Configuracion</string>
+    <string name="config_inst_description">Siga los pasos descritos a continuacion para el correcto funcionamiento.</string>
+    <string name="config_instructions">Lol<br>Lol</br></string>
+    <string name="use_inst_header">Instrucciones de Uso</string>
+    <string name="use_inst_description">Para activar la aplicacion debe realizar el siguiente procedimiento:</string>
+
+
+    <string name="use_inst">
+        <b>Instrucciones:</b> \n\n
+
+        1- Ubicarse en la pantalla inicial (Donde se encuentra el boton de encendido/apagado de la linterna). \n\n
+
+        2- Presionar la tecla para incrementar el volumen de su dispositivo 4 veces. Si la aplicacion se encuentra configurada correctamente el dispositivo vibrara e indicara que se ha activado el servicio S.O.S. En caso contrario, su dispositivo vibrara levemente e indicara la configuracion faltante. \n\n
+
+        3- Para detener el servicio S.O.S debe presionar la tecla para reducir el volumen de su dispositivo 4 veces. Una vez esto se lleve a cabo, el dispositivo vibrara e indicara que se ha detenido correctamente el servicio S.O.S.
+   </string>
+
+    <string name="config_inst">
+        <b>Instrucciones:</b> \n\n
+
+        1- Configure el mensaje que sera enviado en caso de una eventualodad o emergencia. Para esto, debe acceder al menu de configuracion y seleccionar "Mensaje de Emergencia". En la siguiente pantalla debe introducir su mensaje y presionar el boton "Guardar". \n\n
+
+        2- Para la correcta notificacion, es necesario seleccionar al menos 1 contacto al cual enviar el mensaje (Maximo 4). Para esto, debe acceder al menu de configuracion y seleccionar "Contactos de Emergencia". En la siguiente pantalla seleccione el contacto y a continuacion procedera a la busqueda del mismo. Una vez haya seleccionado el contacto que desea, presione el boton "Guardar". \n\n
+
+        3- La aplicacion se encuentra configurada y lista para su uso! \n\n
+    </string>
+</resources>
